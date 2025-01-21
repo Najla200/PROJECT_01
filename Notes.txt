@@ -1,0 +1,1 @@
+When you add the defer attribute to a script tag, it tells the browser to delay the execution of the script until the HTML document has finished parsing
